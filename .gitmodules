@@ -1,6 +1,3 @@
-[submodule "port-haiku-base"]
-	path = port-haiku-base
-	url = ../base-haiku-port
 [submodule "base"]
 	path = base
 	url = ../port-haiku-base
