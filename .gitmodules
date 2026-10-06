@@ -9,3 +9,7 @@
 	path = port
 	url = ../common-port
 	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../imaging-port
+	branch = main
