@@ -1,0 +1,11 @@
+[submodule "port-haiku-base"]
+	path = port-haiku-base
+	url = ../base-haiku-port
+[submodule "base"]
+	path = base
+	url = ../port-haiku-base
+	branch = main
+[submodule "port"]
+	path = port
+	url = ../common-port
+	branch = main
