@@ -2,11 +2,12 @@
 	path = base
 	url = ../port-haiku-base
 	branch = main
-[submodule "imaging"]
-	path = imaging
-	url = ../imaging-port
-	branch = main
 [submodule "common"]
 	path = common
 	url = ../common-port
 	branch = main
+[submodule "imaging"]
+	path = imaging
+	url = ../imaging-port
+	branch = main
+
